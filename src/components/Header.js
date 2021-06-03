@@ -8,7 +8,7 @@ const Header = () => {
         <Grid container direction="row" justify="space-between" alignItems="center" xs={12}>
             <Typography variant='h3'>
                 Jones Kleber
-                <p>Moda Sport</p>
+                <p>e-commerce</p>
             </Typography>
             <Link to="/">
                 <Button color="primary">Home</Button>
