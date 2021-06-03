@@ -1,4 +1,5 @@
 import React from 'react';
+//import Reactors from 'react-scripts';
 import ReactDOM from 'react-dom';
 import App from './App';
 
